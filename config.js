@@ -15,7 +15,7 @@ var config = module.exports = {
 	// calendar settings
 	apiKey: '',
 	// this is in your iCal, html, etc. URLs
-	calendarId: 'ul6joarfkgroeho84vpieeaakk',
+	calendarId: 'nfte4cs4mhli31ifbn8tg81pa8',
 
 	// announce before ...
 	announceEarly: 1 * 60000, // ms
